@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **nothing please**
 
-- 📫 How to reach me (don't) **adretelearns@gmail.com**
+- 📫 How to reach me (don't) **aldretelearns@gmail.com**
 
 - ⚡ Fun fact **Unfortunately, I suffer from skill issue**
 
