@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MicroPOS](github.com/DevAldrete/micropos)
 
-- 🤝 I’m looking for help with [CABO](github.com/DevAldrete/cabo)
+- 🤝 I’m looking for help with [Dotwarf](github.com/DevAldrete/dotwarf)
 
 - 👨‍💻 All of my projects are available at [github.com/DevAldrete](github.com/DevAldrete)
 
